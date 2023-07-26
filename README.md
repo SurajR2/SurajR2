@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @SurajR2
-- 👀 I’m interested in web developing and Cyber Security
-- 🌱 I’m currently learning javascript, React.js
-- 💞️ I’m looking to collaborate on web developing
+#Welcome to my GitHub Account
+- 👋 Hi, I’m Suraj Rasaili B.K
+- Currently pursuing my dream of becoming a Computer Engineer
+- 👀 I’m interested in Web Developing and Blockchain
+- 🌱 I’m quite familier with Javascript, Typescript ,Nodejs, Reactjs, Expressjs, Solidity and Ethersjs 
 - 📫 How to reach me Surajrasaili190@gmail.com
 
 <!---
